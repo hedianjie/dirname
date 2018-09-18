@@ -1,0 +1,13 @@
+html, body{
+	height: 100%;
+	font-size: 14px;
+	line-height: 1.4285;
+}
+.timer{
+	display: inline-block;
+	line-height: 40px;
+	color: #fff;
+	padding: 0 20px;
+	font-size: 24px;
+	background: #000;
+}

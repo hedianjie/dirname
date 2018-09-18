@@ -1,0 +1,18 @@
+/**{
+	box-sizing: border-box;
+}*/
+.layout-wrapper{
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+}
+.layout-main{
+	margin-left: 241px;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+.layout-inner{
+	padding: 10px;
+	padding-top: 70px;
+}
